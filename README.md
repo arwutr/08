@@ -215,7 +215,7 @@ You just need an HTTP server, but [Live Server][] is recommended. It auto reload
 It's included in `package.json` so if you've installed dependencies (`npm i`) you can use `npm run dev` to run it.
 (It's configured to ignore some files/directories for reloading.)
 
-### Desktop App (Electron)
+## Desktop App (Electron)
 
 - Install dependencies with `npm i`
 - Start the electron app with `npm start`
